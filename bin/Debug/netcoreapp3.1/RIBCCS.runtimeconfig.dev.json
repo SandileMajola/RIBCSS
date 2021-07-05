@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\smajola\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\smajola\\.nuget\\packages"
+    ]
+  }
+}
